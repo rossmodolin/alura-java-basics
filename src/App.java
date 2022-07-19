@@ -9,8 +9,8 @@ import java.net.http.HttpResponse.BodyHandlers;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        // Get Top 250 Movies from IMDB using JSON file available online (IMDB API was down)
-        String url = "https://raw.githubusercontent.com/alexfelipe/imersao-java/json/top250.json";
+        // Get Top 250 Movies from IMDB API (the API was down, so I had to use the same data stored elsewhere)
+        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java/api/TopMovies.json";
         URI address = URI.create(url);
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder(address).GET().build();
