@@ -6,4 +6,4 @@ This repository was created to upload the code created during Alura's **#Imersã
 
 - **Lesson 2**: How to create a Whatsapp Sticker Generator from the resized IMDB poster + IMDB rating below the image.
 
-- **Lesson 3**: Refactor code using high cohesion, low coupling, interfaces, and reviewing object oriented concepts. Now the App can extract images from IMDB or Nasa Astronomy Picture of the Day APIs by changing only a few lines in the code.
+- **Lesson 3**: Refactor code using high cohesion, low coupling, interfaces, and reviewing object oriented concepts. Now the App can extract images from IMDB or Nasa Astronomy Picture of the Day APIs by changing only a few lines in the code. Stickers produced by the app can be found [here](https://github.com/rossmodolin/alura-java-basics/tree/main/stickers).
