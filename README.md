@@ -4,4 +4,6 @@ This repository was created to upload the code created during Alura's **#Imersã
 
 - **Lesson 1**: How to consume data from a website, parse it, select relevant parts and print them on the terminal.
 
-- **Lesson 2**: How to create a Whatsapp Sticker Generator from the resized poster + IMDB rating below the image.
+- **Lesson 2**: How to create a Whatsapp Sticker Generator from the resized IMDB poster + IMDB rating below the image.
+
+- **Lesson 3**: Refactor code using high cohesion, low coupling, interfaces, and reviewing object oriented concepts. Now the App can extract images from IMDB or Nasa Astronomy Picture of the Day APIs by changing only a few lines in the code.
